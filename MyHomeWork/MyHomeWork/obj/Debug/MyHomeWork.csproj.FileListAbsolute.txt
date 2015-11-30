@@ -1,0 +1,31 @@
+c:\Windows AP\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+c:\Windows AP\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe
+c:\Windows AP\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.pdb
+c:\Windows AP\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csprojResolveAssemblyReference.cache
+c:\Windows AP\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.Properties.Resources.resources
+c:\Windows AP\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csproj.GenerateResource.Cache
+c:\Windows AP\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+c:\Windows AP\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.pdb
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork._1002_貸款.FrmCSharpQuiz.resources
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork._1002_貸款.FrmLoan.resources
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.Properties.Resources.resources
+C:\Users\III\Desktop\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe.config
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.exe
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.pdb
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.exe
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\bin\Debug\MyHomeWork.pdb
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork._1002_貸款.FrmCSharpQuiz.resources
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork._1002_貸款.FrmLoan.resources
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\Lab02.FrmGame.resources
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\Lab02.FrmScreenSaver.resources
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.Properties.Resources.resources
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\MSIT 105-石兆身_MyHomeWork\MyHomeWork\MyHomeWork\obj\Debug\MyHomeWork._1008_購物單.Frm購物單.resources
